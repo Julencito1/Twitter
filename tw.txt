@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+    <header>
+    <title>Twitter</title>
+    <link rel="stylesheet" href="Estilo.css">
+    <link rel="shortcut icon" href="/gorjeo.png" type="image/x-icon">
+
+    <div class="menu">
+        <div class="logo">
+            <img id="pajaro" src="gorjeo.png" alt="img" width="30px" height="30px">
+            <div id="buscador">
+                <img id="lupa" src="lupa.png" alt="lupa" width="28px" height="28px">            </div>
+        </div>
+        <div class="inicio">
+            <img id="casa" src="casa.png" alt="casa" width="28px" height="28px"> 
+            <h3 id="casatext">Inicio</h3>
+        </div>
+        <div class="explorar">
+            <img id="hastag" src="hastag.png" alt="hastag" width="28px" height="28px">
+            <h3 id="hastagtext">Explorar</h3>
+        </div>
+        <div class="notificaciones">
+            <img id="campana" src="campana.png" alt="campana" width="28px" height="28px">
+            <h3 id="campanatext">Notificaciones</h3>
+        </div>
+        <div class="mensajes">
+            <img id="carta" src="carta.png" alt="carta" width="28px" height="28px">
+            <h3 id="cartatext">Mensajes</h3>
+        </div>
+        <div class="guardados">
+            <img id="guirnalda" src="guirnalda.png" alt="guirnalda" width="28px" height="28px">
+            <h3 id="guirnaldatext">Guardados</h3>
+        </div>
+        <div class="listas">
+            <img id="libro" src="libro-cerrado.png" alt="libro" width="28px" height="28px">
+            <h3 id="librotext">Listas</h3>
+        </div>
+        <div class="perfil">
+            <img id="usuario" src="usuario.png" alt="usuario" width="28px" height="28px">
+            <h3 id="usuariotext">Perfil</h3>
+        </div>
+        <div class="mas-opciones">
+            <img id="puntos" src="puntos.png" alt="puntos" width="28px" height="30px">
+            <h3 id="puntostext">Más opciones</h3>
+        </div>
+        <div class="twittear">
+            <h2 id="escrib">Twittear</h2>
+        </div>
+    </div>
+
+</html>
